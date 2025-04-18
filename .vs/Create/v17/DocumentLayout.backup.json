@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abhij\\Downloads\\ping\\Create\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA15AB0-16B8-4A45-B49C-8C0C5042E775}|Create\\Create.vcxproj|C:\\Users\\abhij\\Downloads\\ping\\Create\\Create\\Create.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CFA15AB0-16B8-4A45-B49C-8C0C5042E775}|Create\\Create.vcxproj|solutionrelative:Create\\Create.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA15AB0-16B8-4A45-B49C-8C0C5042E775}|Create\\Create.vcxproj|C:\\Users\\abhij\\Downloads\\ping\\Create\\Create\\Bat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CFA15AB0-16B8-4A45-B49C-8C0C5042E775}|Create\\Create.vcxproj|solutionrelative:Create\\Bat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bat.cpp",
+              "DocumentMoniker": "C:\\Users\\abhij\\Downloads\\ping\\Create\\Create\\Bat.cpp",
+              "RelativeDocumentMoniker": "Create\\Bat.cpp",
+              "ToolTip": "C:\\Users\\abhij\\Downloads\\ping\\Create\\Create\\Bat.cpp",
+              "RelativeToolTip": "Create\\Bat.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-18T10:29:32.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cpp",
+              "DocumentMoniker": "C:\\Users\\abhij\\Downloads\\ping\\Create\\Create\\Create.cpp",
+              "RelativeDocumentMoniker": "Create\\Create.cpp",
+              "ToolTip": "C:\\Users\\abhij\\Downloads\\ping\\Create\\Create\\Create.cpp",
+              "RelativeToolTip": "Create\\Create.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-18T10:29:14.606Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
